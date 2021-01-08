@@ -2,7 +2,7 @@ import yfinance as yf
 import streamlit as st
 
 st.write("""
-# Crypto Price App
+# Stock Price App
 
 Shown are the stock's opening, closing, and volume prices for SPCE!
 """)
